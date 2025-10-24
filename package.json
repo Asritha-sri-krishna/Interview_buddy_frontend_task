@@ -1,5 +1,6 @@
 {
-  "name": "user-profiles-app",
+  "name": "interview-buddy-frontend-task",
+  "homepage": "https://asritha-sri-krishna.github.io/Interview_buddy_frontend_task/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
